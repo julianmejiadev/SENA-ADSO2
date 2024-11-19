@@ -1,0 +1,29 @@
+.body{
+    display: flex;
+    display: contents;
+}
+
+
+.imagen_espartano{
+    display: flex;
+    background-image: url(spartan.jpeg);
+    }
+
+    .buttons{
+        display: flex;
+        background-color: rgba(130, 156, 147, 0.397);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: larger;
+        color: #dfe1e7;
+        border-radius: 8px;
+    }
+
+    .spacet{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: larger;
+    }
+    .titulo2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+        font-size: larger; 
+        color: #d2d3d6;
+    }
